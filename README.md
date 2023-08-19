@@ -20,8 +20,8 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
-![Install] (https://github.com/OhotinDY/sdb-02/blob/main/inst.png)
-![status] (https://github.com/OhotinDY/sdb-02/blob/main/status.png)
+![Install](https://github.com/OhotinDY/sdb-02/blob/main/inst.png)
+![status](https://github.com/OhotinDY/sdb-02/blob/main/status.png)
 
 ---
 
